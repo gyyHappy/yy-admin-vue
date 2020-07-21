@@ -11,8 +11,8 @@
     </ul>
     <h3>获取帮助</h3>
     <ul>
-      <li>前端Git地址：<a href="https://github.com/gyyHappy/yy-admin-vue" target="_blank">https://github.com/renrenio/renren-fast-vue</a></li>
-      <li>后台Git地址：<a href="https://github.com/gyyHappy/yy-admin" target="_blank">https://gitee.com/renrenio/renren-fast</a></li>
+      <li>前端Git地址：<a href="https://github.com/gyyHappy/yy-admin-vue" target="_blank">https://github.com/gyyHappy/yy-admin-vue</a></li>
+      <li>后台Git地址：<a href="https://github.com/gyyHappy/yy-admin" target="_blank">https://github.com/gyyHappy/yy-admin</a></li>
       <li>如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持</li>
     </ul>
   </div>
